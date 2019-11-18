@@ -10,3 +10,6 @@ DeepRacer is a car built by Amazon that uses reinforcement learning
 to drive around a race track, at least that it the goal. They have
 a simulator and a racing league.
 See the [DeepRacer website](https://aws.amazon.com/deepracer/)
+
+## Setup Instructions
+See the [Setup Page](Setup.md)
