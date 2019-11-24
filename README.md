@@ -13,3 +13,9 @@ See the [DeepRacer website](https://aws.amazon.com/deepracer/)
 
 ## Setup Instructions
 See the [Setup Page](Setup.md)
+
+<br><br>
+
+# AWS DeepRacer Photos
+![DeepRacer Front](images/DeepRacer_Front.jpg)
+![DeepRacer Rear](images/DeepRacer_Rear.jpg)
